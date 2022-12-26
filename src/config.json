@@ -1,0 +1,357 @@
+{
+	"images": [
+		{
+			"name": "pokemon",
+			"path": "./assets/images/pokemonSprites.png",
+			"width": 1024,
+			"height": 5792
+		},
+		{
+			"name": "shiny-pokemon",
+			"path": "./assets/images/pokemonSprites-shiny.png",
+			"width": 1024,
+			"height": 1280
+		},
+		{
+			"name": "oak",
+			"path": "./assets/images/oaksLabCropped.png",
+			"width": 208,
+			"height": 224
+		},
+		{
+			"name": "cutSceneOak",
+			"path": "./assets/images/cutscene/CutSceneOak.png",
+			"width": 281,
+			"height": 599
+		},
+		{
+			"name": "level1",
+			"path": "./assets/images/levels/level1.png",
+			"width": 895,
+			"height": 895
+		},
+		{
+			"name": "level2",
+			"path": "./assets/images/levels/level2.png",
+			"width": 240,
+			"height": 240
+		},
+		{
+			"name": "level3",
+			"path": "./assets/images/levels/level3.png",
+			"width": 240,
+			"height": 240
+		},
+		{
+			"name": "level4",
+			"path": "./assets/images/levels/level4.png",
+			"width": 240,
+			"height": 240
+		},
+		{
+			"name": "level5",
+			"path": "./assets/images/levels/level5.png",
+			"width": 415,
+			"height": 415
+		},
+		{
+			"name": "black",
+			"path": "./assets/images/black.png",
+			"width": 16,
+			"height": 16
+		},
+		{
+			"name": "pokeball-closed",
+			"path": "./assets/images/pokeball-closed.png",
+			"width": 698,
+			"height": 698
+		},
+		{
+			"name": "pokeball-open",
+			"path": "./assets/images/pokeball-open.png",
+			"width": 690,
+			"height": 690
+		},
+		{
+			"name": "rare-candy",
+			"path": "./assets/images/rare-candy-16x16.png",
+			"width": 16,
+			"height": 16
+		},
+		{
+			"name": "nidoran",
+			"path": "./assets/images/cutscene/nidoran.png",
+			"width": 600,
+			"height": 600
+		},
+		{
+			"name": "squirtle",
+			"path": "./assets/images/cutscene/squirtle.png",
+			"width": 906,
+			"height": 906
+		},
+		{
+			"name": "bulbasaur",
+			"path": "./assets/images/cutscene/bulbasaur.png",
+			"width": 774,
+			"height": 774
+		},
+		{
+			"name": "charmander",
+			"path": "./assets/images/cutscene/charmander.png",
+			"width": 932,
+			"height": 932
+		},
+		{
+			"name": "oak-small",
+			"path": "./assets/images/cutscene/oak-small.webp",
+			"width": 98,
+			"height": 152
+		},
+		{
+			"name": "tiles",
+			"path": "./assets/images/tiles.png",
+			"width": 256,
+			"height": 16064
+		},
+		{
+			"name": "brock-tiles",
+			"path": "./assets/images/brocksGym.png",
+			"width": 192,
+			"height": 244
+		},
+		{
+			"name": "beedrill",
+			"path": "./assets/images/cutscene/beedrill.webp",
+			"width": 61,
+			"height": 58
+		},
+		{
+			"name": "rocket-grunts",
+			"path": "./assets/images/cutscene/rocketGrunts.png",
+			"width": 612,
+			"height": 600
+		},
+		{
+			"name": "meowth",
+			"path": "./assets/images/cutscene/meowth.png",
+			"width": 600,
+			"height": 600
+		},
+		{
+			"name": "brock",
+			"path": "./assets/images/cutscene/brock.png",
+			"width": 300,
+			"height": 740
+		},
+		{
+			"name": "geodude",
+			"path": "./assets/images/cutscene/geodude.png",
+			"width": 600,
+			"height": 600
+		},
+		{
+			"name": "onix",
+			"path": "./assets/images/cutscene/onix.png",
+			"width": 1280,
+			"height": 1280
+		}
+	],
+	"fonts": [
+		{
+			"name": "PokemonGb",
+			"path": "./assets/fonts/pokemongb.ttf"
+		},
+		{
+			"name": "Pokemon",
+			"path": "./assets/fonts/PokemonSolid.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "battle-start",
+			"path": "./assets/sounds/music/battle-start.mp3",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "battle-victory",
+			"path": "./assets/sounds/music/battle-victory.ogg",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "battle",
+			"path": "./assets/sounds/music/battle.mp3",
+			"size": 1,
+			"volume": 0.3,
+			"loop": true
+		},
+		{
+			"name": "menu-open",
+			"path": "./assets/sounds/ui/menu-open.ogg",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "selection-choice",
+			"path": "./assets/sounds/ui/selection-choice.ogg",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "selection-move",
+			"path": "./assets/sounds/ui/selection-move.ogg",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "button-pressed",
+			"path": "./assets/sounds/ui/button-pressed.mp3",
+			"size": 5,
+			"volume": 0.3
+		},
+		{
+			"name": "level-select",
+			"path": "./assets/sounds/ui/level-select.mp3",
+			"size": 5,
+			"volume": 0.3
+		},
+		{
+			"name": "pickup",
+			"path": "./assets/sounds/ui/pickup.wav",
+			"size": 5,
+			"volume": 0.3
+		},
+		{
+			"name": "put-down",
+			"path": "./assets/sounds/ui/put-down.wav",
+			"size": 5,
+			"volume": 0.4
+		},
+		{
+			"name": "back-button",
+			"path": "./assets/sounds/ui/back-button.mp3",
+			"size": 5,
+			"volume": 0.4
+		},
+		{
+			"name": "purchase",
+			"path": "./assets/sounds/ui/purchase.wav",
+			"size": 5,
+			"volume": 0.4
+		},
+		{
+			"name": "caught-pokemon",
+			"path": "./assets/sounds/ui/caught-pokemon.wav",
+			"size": 5,
+			"volume": 0.4
+		},
+		{
+			"name": "level-up",
+			"path": "./assets/sounds/ui/levelup.wav",
+			"size": 5,
+			"volume": 0.4
+		},
+		{
+			"name": "turn-on-pc",
+			"path": "./assets/sounds/ui/turn-on-pc.wav",
+			"size": 5,
+			"volume": 0.4
+		},
+		{
+			"name": "turn-off-pc",
+			"path": "./assets/sounds/ui/turn-off-pc.wav",
+			"size": 5,
+			"volume": 0.4
+		},
+		{
+			"name": "title-screen",
+			"path": "./assets/sounds/music/title-screen.mp3",
+			"size": 1,
+			"volume": 0.3,
+			"loop": true
+		},
+		{
+			"name": "main-background",
+			"path": "./assets/sounds/music/pokemon-center.mp3",
+			"size": 1,
+			"volume": 0.05,
+			"loop": true
+		},
+		{
+			"name": "wall-smash",
+			"path": "./assets/sounds/cutscenes/wall-smash.mp3",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "buzzing",
+			"path": "./assets/sounds/cutscenes/buzzing.mp3",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "beatup",
+			"path": "./assets/sounds/cutscenes/beatup.mp3",
+			"size": 1,
+			"volume": 1,
+			"maxDuration": 2000
+		},
+		{
+			"name": "rocket-motto",
+			"path": "./assets/sounds/cutscenes/rocketMotto.mp3",
+			"size": 1,
+			"volume": 0.4
+		},
+		{
+			"name": "blasting-off",
+			"path": "./assets/sounds/cutscenes/blastingOffAgain.mp3",
+			"size": 1,
+			"volume": 0.4
+		},
+		{
+			"name": "evolving",
+			"path": "./assets/sounds/music/evolution.mp3",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "run",
+			"path": "./assets/sounds/ui/run.mp3",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "buzz-off",
+			"path": "./assets/sounds/cutscenes/buzzOff.mp3",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "brock-gym",
+			"path": "./assets/sounds/cutscenes/brockGym.mp3",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "take-the-l",
+			"path": "./assets/sounds/cutscenes/takeTheL.mp3",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "boulder-badge",
+			"path": "./assets/sounds/cutscenes/boulderBadgeCongrats.mp3",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "splash",
+			"path": "./assets/sounds/cutscenes/splash.mp3",
+			"size": 1,
+			"volume": 1,
+			"maxDuration": 3000
+		}
+	]
+}
